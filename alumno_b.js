@@ -1,5 +1,5 @@
 // Melina B
-console.log("Alumno B ");
+console.log("Alumno B");
 
 const rutasEspeciales = ["Bilbao", "Zaragoza", "Cádiz", "Barcelona", "Málaga"];
 
