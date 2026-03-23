@@ -12,7 +12,7 @@ flota.unshift("Bilbao");
 console.log("Alumno A (unshift): Camión de urgencia en Bilbao ->", flota);
 
 let camionSalida = flota.pop();
-console.log(`Alumno A (pop): El camión de ${camionSalida} ha salido a ruta.`);s
+console.log(`Alumno A (pop): El camión de ${camionSalida} ha salido a ruta.`);
 
 console.log("--- Gestión Finalizada ---");
 console.log("Estado final de la flota:", flota);
